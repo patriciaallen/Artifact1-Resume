@@ -35,7 +35,7 @@ To expand skills and experience within the marketing department of an
 <strong>May 2006– Current</strong>
 
 <br /><i>University of Sao Paulo, Sao Paulo BRAZIL</i>
-<a href="http//:www.fe.usp.br" target="_blank">www.fe.usp.br</a>
+<a href="http://www4.fe.usp.br/" target="_blank">www.fe.usp.br</a>
 
 <br />Masters in International Marketing
 <br />Expected graduation: Oct 2007
@@ -77,7 +77,7 @@ through promotional campaigns</li></ul>
 <p>
 Jun 2006 – Sep 2006
 <br />THE ART OF MARKETING, Sao Paulo BRAZIL
-<br /><a href="http://www.artofmarketing.com" target="_blank">www.artofmarketing.com</a>
+<br /><a href="http://www.artofmarketing.com/" target="_blank">www.artofmarketing.com</a>
 <br />Internship – 12 weeks full-time
 </p>
 
