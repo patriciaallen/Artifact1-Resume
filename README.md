@@ -8,10 +8,12 @@
 
 <h1>CURRICULUM VITAE CLAUDIA MARTINEZ</h1>
 <hr />
+  
+![istockphoto](https://user-images.githubusercontent.com/97283176/148665196-05413808-6248-4553-901d-625b1dab57ef.png)
+
+  
 <h2>PERSONAL DETAILS</h2>
 
-  ![istockphoto](https://user-images.githubusercontent.com/97283176/148665077-ebb95e1d-d183-40c1-bf23-6d7cdb9367a1.png)
-  
 <p>
 Residential Address: 123 Dreamland Street, 45987 Moema BRAZIL
 <br />Mobile: +555 666 777
